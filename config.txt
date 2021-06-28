@@ -1,0 +1,3 @@
+
+[database]
+con = mysql://root:mel980423@localhost:3306/dashboard
